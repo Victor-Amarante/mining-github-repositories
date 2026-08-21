@@ -11,3 +11,9 @@ wheels/
 
 # Environment variables
 .env
+
+# Dados minerados
+data/
+
+# macOS
+.DS_Store
