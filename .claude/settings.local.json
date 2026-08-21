@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(uv --version)",
+      "Bash(uv add *)",
+      "Bash(uv sync *)",
+      "Bash(uv run *)",
+      "Bash(grep -vE \"^\\\\s*$\")"
+    ]
+  }
+}
